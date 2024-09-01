@@ -1,1 +1,0 @@
-Conducted a data cleaning project using MySQL, focusing on importing, standardizing, and analyzing data to ensure integrity before conducting exploratory analysis. Performed Exploratory Data Analysis where I used various techniques and queries to analyze data, identify patterns, and extract meaningful insights from datasets.
